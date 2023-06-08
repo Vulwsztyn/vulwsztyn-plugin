@@ -11,8 +11,6 @@ abbr l "exa -lag --header"
 abbr vsc "code ."
 abbr co code
 abbr - "cd -"
-abbr gs "git push"
-abbr gsf "git push --force"
 abbr ... "cd ../.."
 abbr .... "cd ../../.."
 
