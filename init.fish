@@ -13,6 +13,9 @@ abbr co code
 abbr - "cd -"
 abbr ... "cd ../.."
 abbr .... "cd ../../.."
+abbr ecb "echo (__git.current_branch)"
+abbr gs "git push origin (__git.current_branch)"
+abbr gsf "git push origin (__git.current_branch) --force"
 
 alias dco "docker compose"
 alias gco "git checkout"
