@@ -18,6 +18,8 @@ abbr gs "git push origin (__git.current_branch)"
 abbr gsf "git push origin (__git.current_branch) --force"
 abbr gupom "git pull --rebase origin main"
 abbr gmom "git merge origin/main"
+abbr gupod "git pull --rebase origin develop"
+abbr gmod "git merge origin/develop"
 
 alias dco "docker compose"
 alias gco "git checkout"
