@@ -20,6 +20,7 @@ abbr gupom "git pull --rebase origin main"
 abbr gmom "git merge origin/main"
 abbr gupod "git pull --rebase origin develop"
 abbr gmod "git merge origin/develop"
+abbr gstaa "git stash apply"
 
 alias dco "docker compose"
 alias gco "git checkout"
